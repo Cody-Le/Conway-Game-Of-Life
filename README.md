@@ -17,10 +17,15 @@ The Game of Life, also known simple as Life, is a cellular automaton dvised by t
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Cody-Le/Conway-Game-Of-Life.git
    ```
 2. Edit any Variable to your liking
    ```sh
+   height, width = [30,30]
+   The varaible that dictate the behavior of the games
+   underPopRate = 2
+   highPopRate = 3
+   minimumSpawnRate = 3
    ```
 
 
