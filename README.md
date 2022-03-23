@@ -22,13 +22,12 @@ The Game of Life, also known simple as Life, is a cellular automaton dvised by t
 2. Edit any Variable to your liking
    ```sh
    height, width = [30,30]
-   The varaible that dictate the behavior of the games
    underPopRate = 2
    highPopRate = 3
    minimumSpawnRate = 3
    ```
 
 
-2. run
+2. Run main.py
    ```sh
    py main.py
