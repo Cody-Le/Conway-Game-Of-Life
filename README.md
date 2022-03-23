@@ -45,7 +45,7 @@ The *Game of Life*, also known simple as Life, is a cellular automaton dvised by
    py main.py
 
 
-## Demo of the program
+## Demo
 <p align"center">
 <img src="demo1.gif" alt="demo #1" width="300"/>
 <img src="demo2.gif" alt="demo #2" width="300"/>
