@@ -34,3 +34,7 @@ The Game of Life, also known simple as Life, is a cellular automaton dvised by t
 2. Run main.py
    ```sh
    py main.py
+
+
+## Demon of the program
+
