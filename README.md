@@ -15,6 +15,7 @@ The Game of Life, also known simple as Life, is a cellular automaton dvised by t
 
 ##Installation
 
-'''
-git clone 
-'''
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
