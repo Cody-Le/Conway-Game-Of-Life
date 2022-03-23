@@ -1,5 +1,8 @@
 <h1 align="center">Conway Game of Life</h1>
-<h3 align="center">Conway game of life program in python, processed with numpy and render with pygame</h3>
+<h4 align="center">Conway game of life program in python, processed with numpy and render with pygame</h4>
+
+
+
 
 
 ## Introduction to Conway Game of Life
