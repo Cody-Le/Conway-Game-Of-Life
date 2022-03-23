@@ -1,6 +1,6 @@
 <h1 align="center">Conway Game of Life</h1>
 <h4 align="center">Made with Pygame and Numpy</h4>
-<img src="demo1.gif" alt="demo #1" width="500"/>
+<p align="center"><img src="demo1.gif" alt="demo #1" width="500"/></p>
 
 
 
