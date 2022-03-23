@@ -1,5 +1,5 @@
 <h1 align="center">Conway Game of Life</h1>
-<h4 align="center">Conway game of life program in python, processed with numpy and render with pygame</h4>
+<h4 align="center">Made with Pygame and Numpy</h4>
 
 
 
