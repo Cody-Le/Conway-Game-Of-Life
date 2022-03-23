@@ -37,4 +37,4 @@ The *Game of Life*, also known simple as Life, is a cellular automaton dvised by
 
 
 ## Demo of the program
-![Demo #1](./demo1.gif)
+![Demo #1](./demo1.gif = 250x250)
