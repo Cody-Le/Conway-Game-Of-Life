@@ -42,3 +42,4 @@ The *Game of Life*, also known simple as Life, is a cellular automaton dvised by
 <img src="demo2.gif" alt="demo #2" width="300"/>
 <img src="demo3.gif" alt="demo #23" width="300"/>
 </p>
+<h3>The glider, beacon and a chaotic system within the simulation</h3>
