@@ -16,6 +16,15 @@ The *Game of Life*, also known simple as Life, is a cellular automaton dvised by
 
 
 
+## Features
+* Ability to pause and play
+* Any cells pattern within a limited space
+* Ability to change and visualized the basic behavior of the game
+
+
+
+
+
 ## Installation
 
 1. Clone the repo
