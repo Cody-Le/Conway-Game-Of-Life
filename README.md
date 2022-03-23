@@ -1,6 +1,6 @@
 <h1 align="center">Conway Game of Life</h1>
 <h4 align="center">Made with Pygame and Numpy</h4>
-
+<img src="demo1.gif" alt="demo #1" width="500"/>
 
 
 
@@ -42,4 +42,4 @@ The *Game of Life*, also known simple as Life, is a cellular automaton dvised by
 <img src="demo2.gif" alt="demo #2" width="300"/>
 <img src="demo3.gif" alt="demo #23" width="300"/>
 </p>
-<h3>The glider, beacon and a chaotic system within the simulation</h3>
+<h3 align="center">The glider, beacon and a chaotic system within the simulation</h3>
